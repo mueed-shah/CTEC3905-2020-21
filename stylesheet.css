@@ -69,17 +69,12 @@
 			}
 
 			p {
-
-
-
 			}
 
 			content {
 				background-color: green;
 				color: black;
 				margin: auto;
-
-
 			}
 
 			section {
@@ -90,8 +85,6 @@
 				height: 60px;
 				padding: 50px;
 				margin-top: 50px;
-
-
 			}
 
 			aside {
@@ -102,8 +95,6 @@
 				height: 60px;
 				padding: 50px;
 				margin-top: 50px;
-
-
 			}
 
 			footer {
@@ -114,8 +105,6 @@
 				height: 200px;
 				padding: 50px;
 				margin-top: 50px;
-
-
 			}
 
 			form {
@@ -141,9 +130,6 @@
 			tr:nth-child(even) {
 			  background-color: #dddddd;
 			}
-
-
-
 
 
 
