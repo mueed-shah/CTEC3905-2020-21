@@ -1,0 +1,150 @@
+<style>
+			*{
+				padding
+			}
+			body {
+			}
+
+			@media (max-width: 600px) {
+				{
+					navbar, header, .header-text
+					{
+						width:100%;
+						height: auto;
+					}
+				}
+			}
+
+			header {
+				text-align: center;
+				background-color: #1abc9c;
+				padding: 250px;
+  			background-image: linear-gradient(rgba(0,252,151,0.5), rgba(0,252,151,0.5)), url(media/arcade.jpg);
+  			background-size: cover;
+			}
+
+			.header-text {
+				color: white;
+				font-family: monospace;
+				text-transform: uppercase;
+				font-weight: bold;
+				text-shadow: 0px 2px 2px #4BBD8E;
+
+			}
+
+			.navbar {
+				border-bottom: 1px;
+				border-color: white;
+				list-style: none;
+				transition: background-color 5s;
+
+			}
+
+			.navbar a{
+				margin-top: 10px;
+				background-color: gray;
+				border-bottom: 1px;
+				border-color: white;
+				list-style: none;
+				transition: background-color 50px;
+			}
+
+			.navbar li{
+				 display: inline;
+			}
+
+
+		.header-text {
+				border: 1px solid white;
+				width: 100%;
+				position: relative;
+				padding: 20px;
+				margin: 20px;
+		}
+
+		.header-text hover
+			nav {
+
+
+			}
+
+			p {
+
+
+
+			}
+
+			content {
+				background-color: green;
+				color: black;
+				margin: auto;
+
+
+			}
+
+			section {
+				background-color: green;
+				color: black;
+				text-align: center;
+				margin: auto;
+				height: 60px;
+				padding: 50px;
+				margin-top: 50px;
+
+
+			}
+
+			aside {
+				background-color: black;
+				color: white;
+				text-align: center;
+				margin: auto;
+				height: 60px;
+				padding: 50px;
+				margin-top: 50px;
+
+
+			}
+
+			footer {
+				background-color: gray;
+				color: black;
+				text-align: center;
+				margin: auto;
+				height: 200px;
+				padding: 50px;
+				margin-top: 50px;
+
+
+			}
+
+			form {
+				text-align: center;
+				margin: auto;
+				margin: 75%
+    		display: inline-block;
+				width: 100%;
+			}
+
+			table {
+			  font-family: arial, sans-serif;
+			  border-collapse: collapse;
+			  width: 100%;
+			}
+
+			td, th {
+			  border: 1px solid #dddddd;
+			  text-align: left;
+			  padding: 8px;
+			}
+
+			tr:nth-child(even) {
+			  background-color: #dddddd;
+			}
+
+
+
+
+
+
+<style>
