@@ -37,6 +37,7 @@
 				border-color: white;
 				list-style: none;
 				transition: background-color 5s;
+				flex-direction: row;
 
 			}
 
