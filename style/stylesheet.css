@@ -1,19 +1,17 @@
-<style>
+
 			*{
-				padding
+				padding;
 			}
 			body {
 			}
 
 			@media (max-width: 600px) {
-				{
 					navbar, header, .header-text
 					{
 						width:100%;
 						height: auto;
 					}
 				}
-			}
 
 			header {
 				text-align: center;
@@ -111,8 +109,8 @@
 			form {
 				text-align: center;
 				margin: auto;
-				margin: 75%
-    		display: inline-block;
+				margin: 75%;
+    			display: inline-block;
 				width: 100%;
 			}
 
@@ -131,5 +129,3 @@
 			tr:nth-child(even) {
 			  background-color: #dddddd;
 			}
-
-<style>
